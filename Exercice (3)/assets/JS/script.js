@@ -1,0 +1,1 @@
+$("#text").css({"font-family": "Arial, Helvetica, sans-serif", "font-size": "200%"});
